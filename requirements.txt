@@ -8,14 +8,22 @@ blinker==1.5
     # via pelican
 build==0.10.0
     # via pip-tools
+cfgv==3.3.1
+    # via pre-commit
 click==8.1.3
     # via pip-tools
+distlib==0.3.6
+    # via virtualenv
 docutils==0.19
     # via pelican
 feedgenerator==2.0.0
     # via pelican
+filelock==3.10.7
+    # via virtualenv
 ghp-import==2.1.0
     # via -r requirements.in
+identify==2.5.22
+    # via pre-commit
 jinja2==3.1.2
     # via pelican
 markdown==3.4.3
@@ -26,11 +34,17 @@ markupsafe==2.1.2
     # via jinja2
 mdurl==0.1.2
     # via markdown-it-py
+nodeenv==1.7.0
+    # via pre-commit
 packaging==23.0
     # via build
 pelican==4.8.0
     # via -r requirements.in
 pip-tools==6.12.3
+    # via -r requirements.in
+platformdirs==3.2.0
+    # via virtualenv
+pre-commit==3.2.1
     # via -r requirements.in
 pygments==2.14.0
     # via
@@ -46,12 +60,16 @@ pytz==2023.2
     # via
     #   feedgenerator
     #   pelican
+pyyaml==6.0
+    # via pre-commit
 rich==13.3.3
     # via pelican
 six==1.16.0
     # via python-dateutil
 unidecode==1.3.6
     # via pelican
+virtualenv==20.21.0
+    # via pre-commit
 wheel==0.40.0
     # via pip-tools
 
