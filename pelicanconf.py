@@ -18,12 +18,16 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("Github", "https://github.com/py-pdf"),
-    # ('You can modify those links in your config file', '#'),
+    # Order the following by Github stars:
+    # Either link to GitHub or to PyPI
+    ("pypdf and PyPDF2", "https://github.com/py-pdf/pypdf"),
+    ("PyPDF-Builder", "https://github.com/py-pdf/PyPDF-Builder"),
+    ("pdfly", "https://github.com/py-pdf/pdfly"),
 )
 
 # Social widget
 SOCIAL = (  # ('You can add links in your config file', '#'),
-    # ('Another social link', '#'),
+    ("py_pdf", "https://twitter.com/py_pdf"),
 )
 
 DEFAULT_PAGINATION = 10
