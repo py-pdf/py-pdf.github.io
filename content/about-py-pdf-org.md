@@ -2,7 +2,7 @@ Title: The py-pdf organization
 Date: 2023-03-28 10:20
 Modified: 2023-03-28 10:20
 Category: py-pdf
-Tags: py-pdf-organization
+Tags: Governance
 Slug: py-pdf-organization
 Authors: Martin Thoma
 Summary: What py-pdf is about

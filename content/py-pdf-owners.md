@@ -1,4 +1,11 @@
-# Rules for py-pdf owners
+Title: Rules for py-pdf owners
+Date: 2023-04-18 17:10
+Modified: 2023-04-18 17:10
+Category: py-pdf
+Tags: Governance
+Slug: py-pdf-owners
+Authors: Martin Thoma
+Summary: How py-pdf organization owners agree to act
 
 Welcome to the "py-pdf" organization! As a [GitHub organiztion owner](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/roles-in-an-organization),
 your role is to ensure that our projects flourish while minimizing unnecessary
