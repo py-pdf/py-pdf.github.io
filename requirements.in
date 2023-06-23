@@ -1,7 +1,9 @@
-pip-tools  # brings pip-compile to update the requirements.txt
 ghp-import  # publish blog on https://py-pdf.github.io/
+pip-tools  # brings pip-compile to update the requirements.txt
 pre-commit  # automatically apply style checks/autofixes
 
 # For the blog:
-pelican
+invoke
+livereload
 markdown
+pelican

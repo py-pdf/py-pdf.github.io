@@ -1,7 +1,6 @@
 Title: Rules for py-pdf owners
 Date: 2023-04-18 17:10
 Modified: 2023-04-18 17:10
-Category: py-pdf
 Tags: Governance
 Slug: py-pdf-owners
 Authors: Martin Thoma
