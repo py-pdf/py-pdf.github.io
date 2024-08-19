@@ -26,6 +26,7 @@ LINKS = (
     ("fpdf2", "https://github.com/py-pdf/fpdf2"),
     ("PyPDF-Builder", "https://github.com/py-pdf/PyPDF-Builder"),
     ("pdfly", "https://github.com/py-pdf/pdfly"),
+    ("pypdf_table_extraction", "https://github.com/py-pdf/pypdf_table_extraction"),
 )
 
 # Social widget
