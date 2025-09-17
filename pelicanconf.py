@@ -24,9 +24,8 @@ LINKS = (
     # Either link to GitHub or to PyPI
     ("pypdf and PyPDF2", "https://github.com/py-pdf/pypdf"),
     ("fpdf2", "https://github.com/py-pdf/fpdf2"),
-    ("PyPDF-Builder", "https://github.com/py-pdf/PyPDF-Builder"),
     ("pdfly", "https://github.com/py-pdf/pdfly"),
-    ("pypdf_table_extraction", "https://github.com/py-pdf/pypdf_table_extraction"),
+    ("PyPDF-Builder", "https://github.com/py-pdf/PyPDF-Builder"),
 )
 
 # Social widget
